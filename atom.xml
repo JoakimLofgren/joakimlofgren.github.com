@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://JoakimLofgren.github.com/atom.xml" rel="self"/>
-  <link href="http://JoakimLofgren.github.com/"/>
-  <updated>2013-02-02T21:00:23+01:00</updated>
-  <id>http://JoakimLofgren.github.com/</id>
+  <link href="http://lofgren.io/atom.xml" rel="self"/>
+  <link href="http://lofgren.io/"/>
+  <updated>2013-02-02T23:15:10+01:00</updated>
+  <id>http://lofgren.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Joakim Löfgren]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
