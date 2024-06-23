@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[lofgren.io]]></title>
-  <link href="http://lofgren.io/atom.xml" rel="self"/>
-  <link href="http://lofgren.io/"/>
+  <title><![CDATA[lofgren.dev]]></title>
+  <link href="http://lofgren.dev/atom.xml" rel="self"/>
+  <link href="http://lofgren.dev/"/>
   <updated>2013-02-02T23:43:03+01:00</updated>
-  <id>http://lofgren.io/</id>
+  <id>http://lofgren.dev/</id>
   <author>
     <name><![CDATA[Joakim Löfgren]]></name>
-    
+
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
+
 </feed>
